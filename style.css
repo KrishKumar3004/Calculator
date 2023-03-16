@@ -1,0 +1,25 @@
+button {
+  margin: 5px;
+  font-size: 400;
+  width: 75px;
+}
+
+.container {
+  border: 4px solid black;
+  width: 500px;
+  margin: 100px auto;
+  padding: 10px;
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+.screen {
+  display: block;
+  width: 100%;
+  height: 30px;
+}
